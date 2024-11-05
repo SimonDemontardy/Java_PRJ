@@ -1,0 +1,11 @@
+{
+    "type": "java",
+    "name": "Main",
+    "request": "launch",
+    "mainClass": "Main",
+    "projectName": "SOCIALNETWORKLAST",
+    "vmArgs": "--module-path /home/simon/Desktop/Documents/Projet_java_new/SocialNetworkLast/lib/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib --add-modules javafx.controls,javafx.fxml,javafx.media --add-opens javafx.graphics/com.sun.javafx=ALL-UNNAMED "
+}
+
+
+// 

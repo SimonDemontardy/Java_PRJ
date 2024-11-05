@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "SocialNetworkLast/lib/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/sqlite-jdbc-3.45.2.0.jar",
+        "SocialNetworkLast/lib/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/slf4j-api-1.7.36.jar",
+        "SocialNetworkLast/lib/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/javafx-swt.jar",
+        "SocialNetworkLast/lib/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/javafx.web.jar",
+        "SocialNetworkLast/lib/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/javafx.swing.jar",
+        "SocialNetworkLast/lib/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/javafx.media.jar",
+        "SocialNetworkLast/lib/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/javafx.graphics.jar",
+        "SocialNetworkLast/lib/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/javafx.fxml.jar",
+        "SocialNetworkLast/lib/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/javafx.controls.jar",
+        "SocialNetworkLast/lib/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/javafx.base.jar"
+    ]
+}
